@@ -1,0 +1,7 @@
+Version v1_3
+Author Chethan Ningaraju
+
+Major Changes
+=============
+
+[x] Changes related to avoiding the reload of images for every canvas update. The images are loaded once and different loaded images are used for canvas update.
